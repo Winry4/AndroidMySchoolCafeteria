@@ -1,0 +1,31 @@
+{
+	"products": [{
+			"name": "Caffe Latte Macchiato",
+			"price": "1.5",
+			"description": "made from a lot of hot milk at the bottom and a small amount of espresso added on top",
+			"image": "lattemacchiato.png"
+
+		},
+		{
+			"name": "Caffe Capuccino",
+			"price": "1.2",
+			"description": "espresso-based coffee drink prepared with steamed milk foam",
+			"image": "cappuccino.png"
+
+		},
+		{
+			"name": "Ham Sandwich",
+			"price": "3",
+			"description": "delicious ham sandwich with vegetables and cheese",
+			"image": "hamsandwich.png"
+
+		},
+		{
+			"name": "Tortilla pincho",
+			"price": "1.5",
+			"description": "Small piece of spanish omelette with bread",
+			"image": "tortilla.png"
+
+		}
+	]
+}
